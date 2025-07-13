@@ -4,7 +4,7 @@
 
 # 🔢 4-bit ALU in Verilog
 
-This repository contains a modular and testable implementation of a **1-bit Arithmetic Logic Unit (ALU)** and its extension to a **4-bit ALU**, written in Verilog HDL. g 
+This repository contains a modular and testable implementation of a **1-bit Arithmetic Logic Unit (ALU)** and its extension to a **4-bit ALU**, written in Verilog HDL. 
 
 ---
 
