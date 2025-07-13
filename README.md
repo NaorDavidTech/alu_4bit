@@ -1,5 +1,4 @@
-# alu_4bit
-4-bit alu implementation
+
 
 
 # 🔢 4-bit ALU in Verilog
